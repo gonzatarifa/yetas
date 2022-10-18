@@ -1,5 +1,5 @@
 package sgh.mansilla.controlador.configuration;
-
+//hola
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
 
 public class AppInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
